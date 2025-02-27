@@ -1,0 +1,11 @@
+img{
+    width: 400px;
+    height: 400px;
+    border-radius: 40px;
+}
+body{
+    background-color: red;
+}
+.deport{
+    margin-left: 10px;
+}
